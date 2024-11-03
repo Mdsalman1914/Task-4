@@ -24,3 +24,7 @@ Usage
 Compile the program with a C++ compiler (like g++).
 Run the executable, and follow the prompts to manage your to-do list.
 
+OUTPUT OF THE PROJECT 
+_________________________________________________________
+
+![Screenshot 2024-11-03 175841](https://github.com/user-attachments/assets/124ebe70-02e1-4bc8-95e2-a41d71d1bfa3)
